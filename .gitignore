@@ -1,0 +1,4 @@
+node_modules
+pageages/**/node_modules
+pageages/**/pageage-lock.json
+.nx
