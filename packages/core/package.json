@@ -1,6 +1,6 @@
 {
   "name": "@ytb-cli-dev/core",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "核心方法",
   "author": "Tianbao <tb_yang@trip.com>",
   "homepage": "",
@@ -22,5 +22,9 @@
   "dependencies": {
     "jquery": "^3.7.1",
     "lodash": "^4.17.21"
+  },
+  "gitHead": "f262174bfabaf28b633da761bc5801be89186686",
+  "publishConfig": {
+    "access": "public"
   }
 }
